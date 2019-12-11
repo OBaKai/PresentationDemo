@@ -1,9 +1,9 @@
 通过VirtualDisplay截屏
 
 1、
-MediaProjection创建VirtualDisplay
-该方法需弹出权限框提醒
-可以实现系统截屏
+MediaProjection创建VirtualDisplay  
+该方法需弹出权限框提醒  
+可以实现系统截屏  
 
 2、
 通过DisplayManager创建VirtualDisplay
