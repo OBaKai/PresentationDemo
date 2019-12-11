@@ -4,7 +4,7 @@
 MediaProjection创建VirtualDisplay  
 该方法需弹出权限框提醒  
 可以实现系统截屏  
-![image](https://github.com/OBaKai/PresentationDemo/blob/master/gif/001.gif)
+![image](gif/001.gif)
 
 2、  
 通过DisplayManager创建VirtualDisplay  
