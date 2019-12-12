@@ -1,4 +1,4 @@
-Android5.0 实现系统级、app级截屏、录屏
+Android5.0+ 实现系统级、app级截屏、录屏  
 
 1、 系统级别截屏、录屏的实现   
 MediaProjection创建VirtualDisplay，并使用ImageReader进行截屏、录屏    
